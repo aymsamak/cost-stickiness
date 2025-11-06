@@ -3,12 +3,13 @@ Cost Stickiness Measure (1970–2025)
 This repository provides firm-level quarterly and annual cost stickiness measures for U.S. listed firms from 1970 to 2025. The data are constructed following the methodology of Anderson, Banker, and Janakiraman (2003) and subsequent studies on asymmetric cost behavior.
 
 Overview
-Cost stickiness refers to the asymmetric adjustment of operating costs with respect to changes in sales (Anderson et al., 2003). Firms with higher cost stickiness exhibit limited operational flexibility—often due to rigid resource commitments such as labor contracts, asset specificity, or internal frictions (Banker et al., 2013; Chen et al., 2012). These constraints heighten firms’ vulnerability to external shocks and may amplify strategic responses.
+Cost stickiness refers to the asymmetric adjustment of operating costs with respect to changes in sales (Anderson et al., 2003). Firms with higher cost stickiness exhibit limited operational flexibility, often due to rigid resource commitments such as labor contracts, asset specificity, or internal frictions (Banker et al., 2013; Chen et al., 2012). These constraints heighten firms’ vulnerability to external shocks and may amplify strategic responses.
 
 Following the literature, we construct a firm-quarter measure of cost stickiness and aggregate it to the firm-year level. The final dataset includes two files:
 
-Quarterly.dta — firm-quarter level stickiness (available upon request due to file size limits)
-annual.dta — firm-year level stickiness (annualized version of quarterly values)
+Quarterly.dta - firm-quarter level stickiness (available upon request due to file size limits)
+
+annual.dta - firm-year level stickiness (annualized version of quarterly values)
 
 Methodology
 The construction follows the approach of Anderson et al. (2003), Kama and Weiss (2013), and Subramaniam and Watson (2016).
