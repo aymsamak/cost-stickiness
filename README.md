@@ -75,6 +75,4 @@ You are free to use, share, and adapt the data and code with appropriate attribu
 
 Contact
 For questions, data requests (including access to the quarterly dataset), or collaboration inquiries:
-Ayman Samak
-Texas A&M International University
-Email: aymansamak@dusty.tamiu.edu
+Ayman Samak - Texas A&M International University - Email: aymansamak@dusty.tamiu.edu
